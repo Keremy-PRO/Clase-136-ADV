@@ -1,0 +1,46 @@
+.body
+{
+   background-color:rgb(49, 49, 49); 
+}
+#button_1
+{
+    background-color:rgb(0, 255, 119);
+    border-radius:100px;
+    width:250px;
+    height:40px;
+    font-size:30px;
+}
+#yoho
+{
+    background-color:rgb(0, 255, 119);
+    border-radius:100px;
+    width:125px;
+    height:40px;
+    font-size:30px;
+}
+#cosa1
+{
+    background-color:rgb(0, 251, 255);
+    border-radius:100px;
+    width:125px;
+    height:40px;
+    font-size:30px;
+}
+#cosa2
+{
+    background-color:rgb(0, 251, 255);
+    border-radius:100px;
+    width:125px;
+    height:40px;
+    font-size:30px;
+}
+#medio_metro
+{
+  position:fixed;
+  color: rgb(1, 112, 210);
+  width:100%;
+  bottom:0%;
+  background-color: aquamarine;
+  text-align:center;
+  line-height:3;
+}
